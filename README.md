@@ -33,4 +33,4 @@ require("@nomiclabs/hardhat-ethers");
 };
 
 // npx hardhat compile 
-// npx hardhat run ./scripts/ganache/deploy_erc20.js --network ganache
+// npx hardhat run ./script/ganache/deploy_swap.js --network ganache
