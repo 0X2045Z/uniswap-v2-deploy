@@ -1,4 +1,5 @@
 # uniswap-v2-deploy
+First time when you cloned this project.You should execute’sh init.sh’,and chose ‘Create an empty hardhat.config.js’.
 
 # hardhat.config.js.bak
 require("@nomiclabs/hardhat-ethers");
